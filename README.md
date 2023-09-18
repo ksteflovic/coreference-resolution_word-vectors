@@ -17,4 +17,4 @@ List of all authors who contributed to the project:
 - [Jozef Kapusta](https://github.com/jozefkapusta) (supervisor)
 
 ## Paper
-This project was developed as part of a research project for (*SOON...*). You can read the article here (*SOON...*).
+You can read the article [here](http://dx.doi.org/10.3390/app13169272).
